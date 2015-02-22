@@ -29,7 +29,7 @@ _Psst, you may want to check my [presentation about whitespace]
 
 ## Paragraphs
 
-Insert a blank line after each parapgraph.
+Insert a blank line after each paragraph.
 
 ```md
 This is a paragraph.¬
