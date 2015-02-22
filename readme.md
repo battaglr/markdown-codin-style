@@ -6,21 +6,21 @@ documents. It’s based on personal preferences and doesn’t pretend to be the
 
 ## Whitespace
 
-+ Use Unix newline character: `LF`.
-+ Line length should be 80 characters or less.
-+ Use two spaces per indentation level.
-+ Remove all trailing whitespace that’s not intended to generate a line break.
-+ Always end files with a newline.
+- Use Unix newline character: `LF`.
+- Line length should be 80 characters or less.
+- Use two spaces per indentation level.
+- Remove all trailing whitespace that’s not intended to generate a line break.
+- Always end files with a newline.
 
 _Psst, you may want to check my [presentation about whitespace]
 (http://speakerdeck.com/battaglr/why-you-should-care-about-whitespace)_.
 
 ## Headers
 
-+ Use one to six hash characters to declare headers.
-+ Leave one space after the hash.
-+ Never use hash characters at the end.
-+ Insert a blank line after the header.
+- Use one to six hash characters to declare headers.
+- Leave one space after the hash.
+- Never use hash characters at the end.
+- Insert a blank line after the header.
 
 ```md
 #·Foobar¬
@@ -89,8 +89,8 @@ Use a plus sign to declare an unordered list item.
 
 ## Horizontal rules
 
-+ Use three consecutive dash characters to declare an horizontal rule.
-+ Insert a blank line before and after.
+- Use three consecutive dash characters to declare an horizontal rule.
+- Insert a blank line before and after.
 
 ```md
 ¬
