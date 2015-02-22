@@ -61,12 +61,12 @@ Wrap text with underscores when nesting emphasis declarations.
 
 ## Lists
 
-+ Leave one space after the list marker.
-+ Avoid separating list items with blank lines.
+- Leave one space after the list marker.
+- Avoid separating list items with blank lines.
 
 ```md
-+·Foo
-+·Bar
+-·Foo
+-·Bar
 ```
 
 ### Ordered
@@ -83,8 +83,8 @@ Use decimal numbers followed by a dot to declare an ordered list item.
 Use a plus sign to declare an unordered list item.
 
 ```md
-+ Foo
-+ Bar
+- Foo
+- Bar
 ```
 
 ## Horizontal rules
