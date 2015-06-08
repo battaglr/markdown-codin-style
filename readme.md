@@ -80,7 +80,7 @@ Use decimal numbers followed by a dot to declare an ordered list item.
 
 ### Unordered
 
-Use a plus sign to declare an unordered list item.
+Use a dash to declare an unordered list item.
 
 ```md
 - Foo
