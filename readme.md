@@ -22,7 +22,7 @@ _Psst, you may want to check my [presentation about whitespace]
 - Never use hash characters at the end.
 - Insert a blank line after the heading.
 
-```md
+```
 #·Foobar¬
 ¬
 ```
@@ -31,7 +31,7 @@ _Psst, you may want to check my [presentation about whitespace]
 
 Insert a blank line after each paragraph.
 
-```md
+```
 This is a paragraph.¬
 ¬
 ```
@@ -40,7 +40,7 @@ This is a paragraph.¬
 
 Use two spaces to declare (hard) line breaks.
 
-```md
+```
 Foo··
 bar
 ```
@@ -49,13 +49,13 @@ bar
 
 Wrap text with asterisks to indicate emphasis.
 
-```md
+```
 Emphasis is usually displayed as *italics*, and strong emphasis as **bold**.
 ```
 
 Wrap text with underscores when nesting emphasis declarations.
 
-```md
+```
 *You can nest __emphasis__ declarations*.
 ```
 
@@ -64,7 +64,7 @@ Wrap text with underscores when nesting emphasis declarations.
 - Leave one space after the list marker.
 - Avoid separating list items with blank lines.
 
-```md
+```
 -·Foo
 -·Bar
 ```
@@ -73,7 +73,7 @@ Wrap text with underscores when nesting emphasis declarations.
 
 Use decimal numbers followed by a dot to declare an ordered list item.
 
-```md
+```
 1. Foo
 2. Bar
 ```
@@ -82,7 +82,7 @@ Use decimal numbers followed by a dot to declare an ordered list item.
 
 Use a dash to declare an unordered list item.
 
-```md
+```
 - Foo
 - Bar
 ```
@@ -92,7 +92,7 @@ Use a dash to declare an unordered list item.
 - Use three consecutive dash characters to declare an horizontal rule.
 - Insert a blank line before and after.
 
-```md
+```
 ¬
 ---
 ¬
