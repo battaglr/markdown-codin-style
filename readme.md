@@ -15,12 +15,12 @@ documents. It’s based on personal preferences and doesn’t pretend to be the
 _Psst, you may want to check my [presentation about whitespace]
 (http://speakerdeck.com/battaglr/why-you-should-care-about-whitespace)_.
 
-## Headers
+## Headings
 
-- Use one to six hash characters to declare headers.
+- Use one to six hash characters to declare headings.
 - Leave one space after the hash.
 - Never use hash characters at the end.
-- Insert a blank line after the header.
+- Insert a blank line after the heading.
 
 ```md
 #·Foobar¬
